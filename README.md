@@ -4,7 +4,7 @@
 
     
 # SPACE-RESEARCH-ORGANIZATION
-This is a **Space research organisation** where you could find a lots of information about various satellites and updated space related details.
+This is a **SPACE RESEARCH ORGANISATION** where you could find a lots of information about various satellites and updated space related details.
 
 # LICENSE
 
