@@ -1,0 +1,23 @@
+.festive
+{
+	text-align:center;
+	background-color:lightgrey;
+	color: brown;
+}
+h1
+{
+	text-align:center;
+}
+.panther
+{
+	background-color: brown;
+}
+
+span
+{
+	font-style: italic;
+	text-indent: 10px;
+	color: brown; font-size: 16; 
+	margin-left: 120px;
+}
+	
