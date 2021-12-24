@@ -1,6 +1,6 @@
 
-<!-- ![Logo](images/SPACE.jpg) -->
-<kbd>![SPACE](images/SPACE.jpg)</kbd>
+<!-- ![Logo](Image/SPACE.jpg) -->
+<kbd>![SPACE](Image/SPACE.jpg)</kbd>
 
     
 # SPACE-RESEARCH-ORGANIZATION
